@@ -1,0 +1,1 @@
+# Apache-Solr---Information-Retrieval-Project
